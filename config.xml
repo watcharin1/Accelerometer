@@ -17,6 +17,8 @@
     </author>
     <plugin name="Accelerometer" value="CDVAccelerometer" />
     <plugin name="Compass" value="CDVLocation" />
+    <plugin name="Geolocation" value="org.apache.cordova.GeoBroker" />
+
     <!--
         Enable individual API permissions here.
         The "device" permission is required for the 'deviceready' event.
